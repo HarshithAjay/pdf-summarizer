@@ -1,0 +1,16 @@
+node_modules/
+dist/
+dist-ssr/
+*.local
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+chroma_db/
+uploads/
+extracted_images/
+.pytest_cache/
+
+frontend/.vite/
